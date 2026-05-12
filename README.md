@@ -6,7 +6,7 @@ This software is a simple Java Hello World application that prints a greeting me
 
 The purpose of creating this software was to confirm that my programming environment, GitHub workflow, and development tools are working correctly before beginning larger software projects in this course.
 
-[Software Demo Video](will_upload_later)
+[Software Demo Video](https://www.youtube.com/watch?v=SXvgF_4In38)
 
 # Development Environment
 
